@@ -1,0 +1,347 @@
+MICRO01,Additional Sensitivity Test
+MICRO02,Afb Smear For Fluorescent Staining
+MICRO03,Antibacterial Sensitivity
+MICRO04,Csf(cerebrospinal fluid) For India Ink
+MICRO05,Csf Latex Agglutination
+MICRO06,Culture Aerobic
+MICRO07,Culture Anaerobic
+MICRO08,Culture Automated Blood Aerobic
+MICRO09,Culture Automated Blood Anaerobic
+MICRO10,Culture Automated Blood Myco-F-Lytic
+MICRO11,Culture Bactec Blood Plus
+MICRO12,Culture Automated Blood Plus Neonate
+MICRO13,Culture Bactec Fluid: Myco-F-Lytic
+MICRO14,Culture Bactec Fluid: Plus
+MICRO15,Culture Fungus
+MICRO16,Culture AFB
+MICRO17,Smear Afb (Acid fast bacilli)
+MICRO18,Smear for Fungal
+MICRO19,Smear Grams stain
+MICRO20,Smear:Gram'SN & AFB
+MICRO21,Gene Xpert Mtb Rif
+MICRO22,Culture Ntm (Non tuberculpus mycobacteria) Atypical Mycobacteria
+MICRO23,Culture Tb Automated
+MICRO24,Mic For Rapidly Growing Mycobacteria
+MICRO25,TB First line Drug sensitivity
+MICRO26,TB Second line Drug sensitivity
+BC001,Acetone (Serum)
+BC002,Acetone (Urine)
+BC003,Acid Phosphatase
+BC004,Adenosine Deaminase (ADA)
+BC005,Albumin
+BC006,Albumin (Urine)
+BC007,Alk Phos Isoenzyme
+BC008,Alkaline Phosphatase
+BC009,Alpha -1 - Antitrypsin
+BC010,Amikacin
+BC011,Ammonia
+BC012,Amylase
+BC013,Angiotension Converting Enzyme (ACE)
+BC014,Apolipoprotein Al
+BC015,Apolipoprotein B
+BC016,Bicarbonate
+BC017,Total Bilirubin
+BC018,Direct Bilirubin
+BC019,Serum Bilirubin Total + Direct
+BC020,Blood Gas Analysis
+BC021,Blood Gas Analysis & Electrolytes
+BC022,Blood Ph
+BC023,Beta2 Microglobulin
+BC024,Bnp - Poct
+BC025,NT - Pro BNP
+BC026,BUN
+BC027,Calcium
+BC028,Calculi Analysis
+BC029,Carbamazepine
+BC030,Cardiac Injury Profile
+BC031,"Catecolamines serum (Adrenaline, Nor Adrenaline)"
+BC032,Chloride
+BC033,Cholesterol
+BC034,Cholenesterase
+BC035,Copper Oxidas (Ceruloplasmin)
+BC036,CPK (creatinne phosphokinase)
+BC037,Creatine Kinase Mb (CK MB)
+BC038,Creatinine
+BC039,Creatinine Clearance Test
+BC040,Ceruloplasmin
+BC041,hs CRP (C-reactive protein High Sensitivity)
+BC042,Csf Electrophoresis
+BC043,Csf Protein
+BC044,Csf SugarI
+BC045,Cyclosporin
+BC046,Cystatin C
+BC047,Complement C3.
+BC048,Complement C4
+BC049,CRP
+BC050,Digoxin
+BC051,Direct Ldl Cholesterol
+BC052,Electrolytes
+BC053,Fasting Blood Sugar
+BC054,Post Prandial Blood Sugar
+BC055,Random Blood Sugar (Rbs)
+BC056,Post Glucose Blood Sugar
+BC057,Urine Sugar
+BC058,Fluid Creatinine
+BC059,Fluid Glucose
+BC060,Fluid LDH (lactate dehydrogenase)
+BC061,Freelite Chains (k & l )
+BC062,Ferritin
+BC063,Gamma GT (GGT)
+BC064,General Body Profile
+BC065,Glyco Hb/HBA1c (glysated haemoglobin)
+BC066,Haptoglobin
+BC067,HDL Cholesterol
+BC068,Homocysteine
+BC069,Imuno Fixation Electrophoresis(IFE)
+BC070,Onized Calcium
+BC071,Kappalight Chain
+BC072,Lactate
+BC073,Lambda Light Chain
+BC074,LDH (Lactate dehydrogenase)
+BC075,Lipase
+BC076,Lipid Profile (mini)
+BC077,Lipid Profile (maxi)
+BC078,Lp(a)
+BC079,Lithium
+BC080,Liver Profile
+BC081,Magnesium
+BC082,Osmolality
+BC083,P1Np
+BC084,Phenobarbital
+BC085,Phenytoin ( Dilantin)
+BC086,Phosphorus
+BC087,Porphobilinogen(Qua)
+BC088,Porphobilinogen(Scr)
+BC089,Pottassium
+BC090,Sodium
+BC091,Prealbumin
+BC092,p
+BC093,Random Urine Sugar
+BC094,Renal Profile'
+BC095,Rheumatoid Factor - RA
+BC096,Serum Iron
+BC097,Protein-Total
+BC098,Serum Protein Electrophoresis
+BC099,SGOT
+BC100,SGPT
+BC101,Theophylline
+BC102,Total Body Profile
+BC103,Total Iron Binding Capacity(TIBC)
+BC104,Triglycerides
+BC105,Troponin T (Trop T)
+BC106,Troponin T - Poct
+BC107,Troponin I
+BC108,Transferin
+BC109,Uric Acid
+BC110,Urinary Electrolytes
+BC111,Urinary Potassium
+BC112,Urinary Sodium
+BC113,Urine Amphetamine Qualitative
+BC114,Urine Barbiturate Qualitative
+BC115,Urine Bence Jones Protein
+BC116,Urine Benzodiazepine Quantitative
+BC117,Urine Bicarbonate Random
+BC118,Urine Calcium 24 Hrs
+BC119,Urine Calcium Random
+BC120,Urine Catecholamines
+BC121,Urine Chloride 24 Hrs
+BC122,Urine Chloride Random
+BC123,Urine Coccaine Qualitative
+BC124,Urine Creatinine Random
+BC125,Urine Electrophoresis
+BC126,Urine Homocystein
+BC127,Urine Homogentisic Acid
+BC128,Urine Immunofixation Electrophoresis
+BC129,Urine -Marijuana Qualitative
+BC130,Urine Methadone Qualitative
+BC131,Urine Methaqualone Qualitative
+BC132,Urine Microalbumin - Spot sample
+BC133,Urine Microalbumin Quant (24 hrs)
+BC134,Urine Opiates Qualitative
+BC135,Urine Osmolality
+BC136,Urine Ph
+BC137,Urine Phosphorous 24 Hrs
+BC138,Urine Phosphorous Random
+BC139,Urine Potassium 24 Hrs
+BC140,Urine Potassium Random
+BC141,Urine Propoxyphene Qualitative
+BC142,Urine Protein
+BC143,Urine Sodium Random
+BC144,Urine Urea 24 Hrs
+BC145,Urine Urea Random
+BC146,Urine Uric Acid Random
+BC147,Urine Uric Acid 24 hours
+BC148,Valproic Acid
+BC149,Vancomycin
+BC150,VMA (Vanillylmandelic acid) Urine 24 hrs
+BC151,Zinc
+PATH001,Stool Routine
+PATH002,Stool Concentration For 0 & P
+PATH003,Stool: Occult Blood
+PATH004,Urine Bile Salts And Bile Pigments
+PATH005,Urine Routine
+PATH006,Semen routine
+PATH007,Urine Pregnancy test (BCG Urine)
+HAEM01,Absolute Count
+HAEM02,Activated Partial Thromboplastin Time APTT
+HAEM03,Bleeding Time
+HAEM04,Body Fluid
+HAEM05,Bone Marrow Aspirate Report
+HAEM06,Bone Marrow Biopsy Report
+HAEM07,CBC & ESR
+HAEM08,Cerebrospinal Fluid
+HAEM09,Clot Retraction
+HAEM10,Coagulation Profile
+HAEM11,Complete Blood Count
+HAEM12,Cryoglobulins
+HAEM13,CD4/CD8 counts
+HAEM14,D-Dimer Assay
+HAEM15,DIC (Desseminated intravascular coagulation) Profile
+HAEM16,Erythrocyte Sedimentation Rate (ESR)
+HAEM17,Factor IX Assay Test
+HAEM18,Factor V Leiden
+HAEM19,Factor VIII Assay
+HAEM20,Fibrinogen
+HAEM21,Fibrinogen Degradation Products
+HAEM22,G 6 Pd (Glucose 6 phosphate dehydrogenase deficiency) Quantitative
+HAEM23,Haematocrit (PCV)
+HAEM24,Haemoglobin
+HAEM25,Haemoglobin & Pcv (Packed cell volume)
+HAEM26,Haemolytic Anemia Studies
+HAEM27,Hb Electrophoresis Studies
+HAEM28,Heinz Bodies
+HAEM29,HLA B 27
+HAEM30,LE Cells
+HAEM31,Leucocyte Alkaline Phosphatase
+HAEM32,Leukemia Panel I
+HAEM33,Leukemia Panel II
+HAEM34,Lupus Anti Coagulant
+HAEM35,Malarial Parasites
+HAEM36,Microfilaria
+HAEM37,Myelo Peroxidase-Mp6
+HAEM38,NK (natural killer) Cells Count
+HAEM39,Osmotic Fragility
+HAEM40,Periodic Acid Schiff
+HAEM41,Peripheral Smear Examination
+HAEM42,Platelet Count
+HAEM43,Protein C Acvity
+HAEM44,Protein S Activity
+HAEM45,Prothombin Time
+HAEM46,Rapid Malaria Test - Poct
+HAEM47,Red Cell Indices
+HAEM48,Reticulocyte Count
+HAEM49,Sickling Test
+HAEM50,Single Antibody - Flow Cytometer
+HAEM51,Thrombin Time
+HAEM52,Total Leukocyte Count
+HAEM53,Total Lymphocyte Profile
+HAEM54,Urine Hemosiderin
+HAEM55,Von Willebrand Factor
+HISTO001,Biopsies
+HISTO002,Intermediate Specimen
+HISTO003,Extra Large Specimen (15 Slides)
+HISTO004,Fluid Cytology
+HISTO005,Fluid Cell Block
+HISTO006,FNAC Procedure
+HISTO007,FNAC- Interpretation
+HISTO008,Frozen Section per Tissue
+HISTO009,Frozen Section Additional Tissues
+HISTO010,IHC - Panel
+HISTO011,IHC - Single Antibody
+HISTO012,Kidney Biopsy - IF
+HISTO013,Kidney Biospy-Lm + IF
+HISTO014,Kidney Bx (biopsy)-Lm Alone
+HISTO015,Large Specimen (10 slides)
+HISTO016,Pap Smear-Gynaec
+HISTO017,Skin Biopsy IF
+HISTO018,Skin. Biopsy Lm
+HISTO019,Special Stains (per stain)
+SER001,HCV Antibody - Elisa
+SER002,Hcv Antibody Spot
+SER003,Hepatitis B - HbsAg Elisa
+SER004,Hepatitis B Hbsag Spot
+SER005,Hiv I & II - Elisa
+SER006,Hiv I & II Spot
+SER007,HIV I & II (Western Blot)
+SER008,Amoebiasis IgG Elisa
+SER009,Anti Chlamydia Pneumoniae IgM
+SER010,Anti Double Stranded DNA
+SER011,Anti HAV IgG (Immunoglobulin G)
+SER012,Anti HAV IgM (Immunoglobulin M)
+SER013,Anti Hbe Ab (Antibody to Hep B envelope antigen)
+SER014,Anti HEV IgM
+SER015,Anti Leptospira IgM
+SER016,Anti Measles IgG
+SER017,Anti Mycoplasma IgM
+SER018,Anti Neutrophil Cytoplasmic Antibody (ANCA)
+SER019,Anti Smooth Muscle antibody (ASMA)
+SER020,Antibody to Hbc - Total
+SER021,Antibody to Hbc- IgM
+SER022,Antibody To HbsAg
+SER023,Antinuclear Antibody - Dilutions
+SER024,Antinuclear Antibody - Qualitative
+SER025,Aspergillus antibody (IHA)
+SER026,Brucella IgG antibody
+SER027,Ca 15-3
+SER028,Ca-125
+SER029,Ca-19-9
+SER030,Chikungunia Igm Rapid Test
+SER031,Cryptococcus antigen-CSF-Latex
+SER032,Cryptococcus antigen-Serum-Latex
+SER033,Cytomegalovirus IgG Ab
+SER034,Cytomegalovirus Igm Ab
+SER035,Dengue IgG Ab
+SER036,Dengue IgM Ab
+SER037,Dengue Ns 1 Antigen
+SER038,Dengue Ag/Ab Rapid test
+SER039,Echinococcus IgG Hydatid Cyst
+SER040,ENA Rnp (Ribonucleoprotein)
+SER041,Ena Sm (smith)
+SER042,Ena SSA - RO
+SER043,Ena SSB - LA
+SER044,Extractable Nuclear Antibody
+SER045,HbEag
+SER046,Hepatitis B Profile
+SER047,IgA
+SER048,IgE
+SER049,IgG
+SER050,IgM
+SER051,Immunoglobulins
+SER052,Monospot (Infectious Mononucleosis)
+SER053,Mantouxt Skin Test (Tuberculin test)
+SER054,Pro Calcitonin Quantitative
+SER055,Rapid Dengue Ns1 + IgM IgG
+SER056,Rapid Leptospira Igm
+SER057,Rubella IgG Ab
+SER058,Rubella IgM Ab
+SER059,Scl-70 (Anti topaisomerase)
+SER060,TORCH IgG & IgM
+SER061,Torch IgG
+SER062,Torch IgM
+SER063,Toxoplasmosis IgG
+SER064,Toxoplasmosis IgM
+SER065,Trep Pallidum Haemagglutination- TPHA
+SER066,Varicella Zoster IgG
+SER067,VDRL- Qualitative
+SER068,VDRL - Quantitative
+SER069,Weil Felix
+SER070,Widal
+SER071,Anti Mitochondrial antibody
+SER072,ASCA IgA (Saccharmyces Cerevisiae )
+SER073,ASCA IgG (Saccharmyces Cerevisiae )
+SER074,Anti Phosholipid antibody
+SER075,DHEAS
+SER076,First Trimester Screen
+SER077,Free PSA
+SER078,FSH/LH PRL
+SER079,BHCG
+SER080,INSULIN
+SER081,PSA+freePSA
+SER082,PSA
+MB01,HBV Qualitative PCR
+MB02,HBV Quantitative Viral Load
+MB03,HCV Qualitative - PCR
+MB04,HCV Quantitaive- Viral Load
+MB05,HIV Quantitative - Viral Load
+MB06,HLA Class I ABC
+MB07,HLA Cross Matching

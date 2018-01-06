@@ -1,0 +1,478 @@
+BP01,Abscess Incision And Drainage (Casualty)
+BP02,(Pacing Electrose) 6F Eledyn
+BP03,Arterial Lines-
+BP04,Ascitis Tapping (Casualty)
+BP06,Bladder Wash (Casualty)
+BP07,Blms Monitoring Kit.
+BP08,Blood Pressure
+BP09,Blood Pressure
+BP10,Bronchoscopy
+BP11,Catheterization Plain
+BP12,Central Line-
+BP13,Central Venious Catheter
+BP15,Consultation (Attended By Consultants In Casualty)
+BP16,Consultation (By Cmo / Registrar )
+BP17,Cryo Therapy
+BP18,Cyst Removal Of Eyelids
+BP19,Double -Lumen Central Line 1
+BP20,Dressing Major
+BP21,Dressing Minor
+BP22,Dvd / Cd
+BP24,Endometrial Biopsy With D & C
+BP25,Epidural Injection
+BP26,Excision Of Ganglion
+BP27,Femoral Vein Cannuulation / Subclavian Vein
+BP28,H.G.T.
+BP29,Hydrotubation (Mot)
+BP30,I/V Injection
+BP31,Inj.Kanacort
+BP32,Inter Costal Drainage And Pericardial Tapping
+BP33,Inter Costal Drainage And Pericardial Tapping
+BP34,Intra Articular Injection..
+BP35,Intra-Articular Injection-
+BP36,Introducer Set-6F
+BP37,Intubation
+BP38,Jugular Lines
+BP39,Knee-Aspiration-
+BP40,Loop Insertion
+BP41,Lumbar Puncture
+BP43,Muscle Biopsy (Mot)
+BP44,Nail Removal
+BP45,Nebulization With Drugs - One Sitting
+BP46,Needle Biopsy
+BP47,Oxygen Central Supply Per Hour-
+BP48,Oxygen Cylinder On Hire Chgs(Without Flow Meter)
+BP49,Peripheral Line
+BP50,Piles Injection ( Mot)
+BP51,Plaster Cutting And Replastering
+BP52,Plaster Removal
+BP53,Plaster Slab
+BP54,Plastering Done In Casualty
+BP57,Respirator / Ventilator Charges Per Day
+BP58,Ryles Tube Insertion
+BP60,Scar Resision
+BP61,Simgoidoscopy (Mot)
+BP63,Suture Removal
+BP64,Suturing Major - Small Wounds
+BP65,Suturing Minor - Small Wounds
+BP67,Tapping Of Pleural Cavity
+BP68,Temporary Cardiac Pacing-
+BP69,Tracheostomy
+BP70,True Cut Biopsy
+RO01,Brachtheraphy - T.P.S.
+RO02,Brachytherapy - Registration Charges
+RO03,Brachytherapy - Simulator
+RO04,Brachytherapy Prof.Chgs S-Opd
+RO05,Brachytherapy Treatment - Eopd
+RO06,Hdr Brachytherapy Charges - Per Sitting
+RO07,Irradiated Blood - Packedcell
+RO08,Irradiated Blood - Platelet
+RO09,Per Treatment (Theratron 60)
+RO10,Prof.Fees And Other.Charges For Cobalt Therapy Treatment
+RO11,Prof.Fees For Lat (E-Opd)
+RO12,Review Cobalt Therapy Treatment
+RO13,Simulator
+RO14,Simulator L.A.T. (S-Opd)
+RO15,Technical Charges (Moulds)
+RO16,Thermoplastic Sheet (Radiation Oncology)
+RO17,Treatment Planning System - T.P.S.
+OH01,Infusional Chemotheraphy 1
+OH02,Infusional Chemotheraphy-2
+OH03,Intrathecal Chemotheraphy
+OH04,Bone Marrow Aspiration (Procedure)
+OH05,Bone Marrow Aspiration & Biopsy (New Test)
+OH06,Bone Marrow Biopsy
+OH07,Picc-Peripherally Inserted Cental Catheter
+ON01,Intrathecal Chemotheraphy
+ON02,Bone Marrow Aspiration (Reporting)
+NM01,(Spect-Ct) Blood Pool Imaging
+NM02,(Spect-Ct) Brain Perfusion Scan
+NM03,(Spect-Ct) Dmsa Scan
+NM04,(Spect-Ct) Gallium -67 Scan
+NM05,(Spect-Ct) Gasteric Emptying Study
+NM06,(Spect-Ct) Gastroesuphagel Reflux Scan
+NM07,(Spect-Ct) Gbp
+NM08,(Spect-Ct) Hepatobillary Scan
+NM09,(Spect-Ct) Kidney Scan Hippuran
+NM10,(Spect-Ct) Liver Scan Colloid
+NM11,(Spect-Ct) Lung Perfusion Scan
+NM12,(Spect-Ct) Lung Ventillation Scan
+NM13,(Spect-Ct) Lympho Scintigraphy
+NM14,(Spect-Ct) Meckel'S Diverticulum Scan
+NM15,(Spect-Ct) Mibg (Bris Scan)
+NM16,(Spect-Ct) Parathyroid Scan
+NM17,(Spect-Ct) Salivary Scan
+NM18,(Spect-Ct) Skeleton Scan (Bone)
+NM19,(Spect-Ct) Thyroid Scan
+NM20,Adenosine Charges
+NM21,Brain Scan Planar Views
+NM22,Cardiac Pet-Ct
+NM23,Cardiologist Fees For Myocardial Scan
+NM24,Cd Charges
+NM25,Chemo Embolization - Yttrium Theraspheres Therapy
+NM26,Dopamine Receptor Spect
+NM27,Ecd-Brain Spect
+NM28,Enalaprilat Charges
+NM30,Gamma Probe Procedure
+NM31,Gfr Estimation
+NM35,Mci Dose 50 - 1 Day Stay
+NM36,Mibg Scan
+NM37,Myocardial Ischemia Plus Viability Test
+NM38,Myocardial Perfusion Scan Including Stress Test
+NM39,Radiotherapy Planning Scan
+NM40,Samarioum Therapy For Painful Bone Metastasis
+NM41,Somatostatin Receptor Pet-Ct With 68Ga -Dotatoc
+NM42,Testicular Scan
+NM43,Therapy Dose For Throtoxicosis For 5Mci (Dyna)
+NM44,Therapy Dose For Thyrotoxicosis ( 10 Mci )
+NM45,Whole Body Iodine Scan ( Low Dose)
+NM46,Whole Body Spect-Ct Scan
+PCT01,Whole Body -Pet
+PCT02,(Spect-Ct) Bone Pet-Ct
+PCT03,(Spect-Ct) Parathyroid Scan
+PCT04,(Spect-Ct) Skeleton Scan (Bone)
+PCT06,Brain Pet-Ct-Nueur
+PCT07,Brain Pet-Ct-Tumor
+PCT08,Cardiac Pet-Ct
+PCT09,Dopamine Receptor Spect
+PCT10,Extended Pet-Ct
+PCT11,Extra Film Chgs (Pet-Ct)
+PCT12,Lutetium Prrt -Pet Ct
+PCT13,Lutetium Therapy Test (Imported-2)
+PCT14,Myocardial Ischemia Plus Viability Test
+PCT15,Myocardial Perfusion Scan Including Stress Test
+PCT16,Oncologist Fees-Lutetium Therapy
+PCT17,Radiotherapy Planning - Pet-Ct
+PCT18,Single Pet-Ct
+PCT19,Somatostatin Receptor Pet-Ct With 68Ga -Dotatoc
+CARD01,Cardiac Monitoring During Surgical Procedure (Cardiology)
+CATH02,Angiography Emergency
+CATH03,Angioplasty
+CATH05,Angiography Cum Plasty
+CATH06,Angiography Cum Plasty (Emergency)
+CATH08,Permanent Pacemaker Package
+CATH09,Fractional Flow Reserve Measurement System Package
+CATH10,Mitral Valvuloplasty
+CATH11,Iabp Insertion
+CATH12,Rotablator Package
+CATH13,Aicd Implantation
+CATH14,Bi Ventricular Pacing
+CATH15,Electro Physiology Study(Rf Ablation) 2 Hrs To 2 1/5 Hrs
+CATH16,Renal Angioplasty
+CATH17,Temporary Pacemaker
+CATH18,Tilt Test
+CATH19,Pda/Asd/Vsd/Closure Pkg. (Adult & Children)
+CATH20,Electro Physiological Studty (Ep Study) 1 1/2 To 2 Hours.
+CATH21,Aorto-Renal Studies(Renal Angiography)
+CATH22,Peripheral Angioplasty
+CATH23,Peripheral Arteriography(Aortogram)
+CATH24,Aortogram With Peripheral Angio.
+CATH26,Peripheral Venography
+CATH27,Valvuliplasty Procedure On Children (V.P.C.)
+CATH28,His Bundle Recording Itself
+COECG1,Stress Test
+COECG2,Stress Test For H.C.U.
+COECG3,Stress Test For Hcu Pts.
+ECG01,Ecg
+ECG03,Bp Monitoring Machine 24 Hours Ambulatory
+ECG04,E.C.G. - Cabg
+ECG05,E.C.G.Done By Iccu Tech.At Night
+ECARD1,Holter Monitoring
+ECARD2,Echo Portable
+ECARD3,Echo With Color Doppler
+ECARD4,Intra Operative Tee
+ECARD5,Multiplane Tee
+ECARD6,V Scan Echo
+ECARD7,Echo-Cardiography Colour Doppler ( Hp
+ECARD8,Portable Echocardiography For Icu Patient - Dr'S Own Machine
+ECARD9,Echo-Cardiography Colour Doppler Portable
+ECARD10,Dobutanine Stree Echocardiogram (Dsa)
+ECARD11,Transoesphageal Echocardiography( Tee )
+ECARD12,Elective Defibrillation Or Cardioversion
+ECARD13,2 D Echocardiography (For Health Check Up Only )
+ECARD14,3D Echo And Cardiac Volume
+ECARD15,Echo-Cardiography M.Mode Sector
+NEEEM01,Emg And Ncv Routine
+NEEEM02,Electroencephalography (E.E.G)
+NEEEM03,Emg /Nc Of 4 Limbs
+NEEEM04,Additional Charges For Portable Eeg Machine
+NEEEM05,Visual Evoked Response( Ver Or Vep )
+NEEEM06,Electroretingoram (Erg)
+NEEEM07,Brainstem Electric Response Audiometry(Bera)
+NEEEM08,Brain Stem Auditory Evoked Response (Bsaer)
+NEEEM09,Telemetry Package - Four Hours
+NEEEM10,Eight Hours Telemetry -Pkg
+NEEEM11,Telemetry Package - Twelve Hours
+NEEEM12,Twenty Four Hours Telemetry - Pkg
+NEEEM13,Telemetry Pkg. Forty-Eight Hours
+NEEEM14,Telemetry Pkg. Seventy-Two Hours Proced.
+NEEEM15,Somato Sensory Evoked Response (Sser)
+NEEEM16,Nocturnal Polysomnogram Diagnostic (1) - 8Pm - 8Am (Pkg)
+NEEEM17,Nocturnal Polysomnogram Diagnostic (1 & 2) 8Pm - 8Am (Pkg)
+NEEEM18,Single Fibre Emg(Sfemg)
+NEEEM19,Multiple Sleep Latency Test Including Prior Night Evaluation (3) 8Pm-5Pm Next Day(Pkg)
+NEEEM20,Eeg With Special Procedure
+NEEEM21,Emg /Ncv/ Study Decroment Res
+NEEEM22,Nocturnal Polysomnogram Titration (2) 8Pm - 8Am(Pkg)
+NEEEM23,Portable Emg / Nc Study
+NEEEM24,Electro-Oculogram (Eog)
+NEEEM25,Emg /Nc With Sympathetic Skin Response
+NEEEM26,Electrocochleogram(Ecochg)
+NEEEM27,Pattern Reversal Electroretingoram ( Perg )
+NEEEM28,Sympathetic Skin Response
+NEEEM29,E.E.G.Monitoring Or Similar Procedure During Oper.In O.T.
+DEN01,Removal Of Infected Tooth Or Root Multi Rooted Teeth
+DEN02,Root Canal Treatment Multiple Roots
+DEN03,Light Cure Restoration ( C )
+DEN04,Light Cure Restoration ( B ) Veneer
+DEN05,Composite Restoration (C) Gic
+DEN06,Oral Prophylaxis (B) Upper/Lower
+DEN07,Tooth Extractions Under L.A. (B)
+DEN08,Pit & Fissure Treatment (B)
+DEN09,Proclain Fixed To Metal Crown-Non Precious
+DEN10,Procelain Fixed To Metal Crown -Precious
+DEN11,Peridental Flap Surgery Or Curettage Per Segment
+DEN12,Root Canal Treatement Single Root
+DEN13,Rthodontic Models & Treatment
+DEN14,Composite Build Up
+DEN15,Composite Restoration (A) Gic
+DEN16,Composite Restoration (B) (Lce)
+DEN17,Surg.Removal Of Impacted Mesioang /Vertical 3Rd Molar ( B )
+DEN18,Fluoride Treatment (B)
+DEN19,Porcelain Crown (C) Per Unit
+DEN20,Silver Alloy Restoration (C)
+DEN21,Silicate Restoration (B) Gic
+DEN22,Surg.Removal Of Impacted Soft Tissue 3Rd Molar ( C )
+DEN23,Surg.Removal Of Impacted Horizontal/Vertical Distoangular
+DEN24,Bridge Work Per Unit (C) White Metal With Facing
+DEN25,Partial Dentures -Cast Metal Frame
+DEN26,Post & Core (A) Per Unit Ant Tooth
+DEN27,Corr.Treat.W.Fix.App.Inv.Extra App.Com.Gr.1-First Instal.
+DEN28,Porcelain Crown (B) Veneer
+DEN29,Corr.Treat.W.Fix.App.Inv.Extra App.Com.Gr.2-First Instal.
+DEN30,X-Ray Intra-Oral Per Plate (Dental X-Ray)
+DEN32,Removal Of Infected Tooth Or Root Single Tooth
+DEN33,Complete Dentures
+DEN34,Tooth Extractions Under L.A. (A)
+DEN35,Crown (A) Per Unit
+DEN36,Post & Core (C) Per Unit Posterir Tooth
+DEN37,Cephalogram
+DEN38,Full Denture Fibre Glass ( Upper / Lower )
+DEN39,Obturator Permanant
+DEN40,Partial Dentures Acrylic
+DEN41,Acrlic Crown
+DEN42,Crown (B) Post
+DEN43,Metal Crown (B) White Metal
+DEN44,Metal Crown (A) Cast Alloy
+DEN45,Silver Alloy Restoration (A) Simple Cavity
+DEN46,Corr.Treat.W.Fix.App.Inv.Extra App.Com.Gr.2-Second Instal.
+DEN47,Corr.Treat.W.Fix.App.Inv.Extra App.Com.Gr.2-Third Instal.
+DEN48,Bridge Work Per Unit (B) White Metal
+DEN49,Inter Maxxillary Fixation / Splint Composite Splint
+DEN50,Corrective Treat.By Removable Or Func.Appliance Gr.2 First Instalment
+DEN51,Full Denture Fibre Glass For Flat Ridgs Upper/Lower
+DEN52,Light Cure Restoration ( B ) Veneer
+DEN53,"Obturators,Splints & Other Mechanical Appliances (B)"
+DEN54,Metallic Denture Prosthesis (A)
+DEN55,Episectomy Or Frenectomy Under L.A.(C) Multiple Roots
+DEN56,Episectomy Or Frenectomy Under L.A.(B) Per Tooth Single Root
+DEN57,Full Denture Prosthesis-Acrylic
+DEN58,Retained Upper/Lower Prosthesis (C) Fbreglass/Special Mat.
+DEN60,Inter Maxillaru Fixation / Splint
+DEN61,Metal Inlay (A)
+DEN62,Corrective Treat.By Removable Or Func.Appliance Gr.1 First Instalment
+DEN63,Obturator -Temporary
+DEN64,Pulpotomy
+DEN65,Treatment Of Periapical Pathology
+DEN66,Space Maintainer
+DEN67,Inter Maxillary Fixation (C) Man/Mandible
+DEN68,Enucleation Cyst (C) Multi Cystic
+DEN69,Post & Core
+DEN70,Retained Upper/Lower F.D. (A) Acrylic
+DEN71,Gingivectomy Or Subgingival Curettage Per Segment
+DEN72,Temporary Clown Pedo (B)
+DEN73,Corrective Treat.By Fix Appliance Gr.1 Second Instalment
+DEN74,Dressing (B)
+DEN75,"Cementing Crown, Bridges & Inlays Per Unit (A)"
+DEN76,Corrective Treat.By Removable Or Func.Appliance Gr.1 Second Instalment
+DEN77,Temporary Prothesis (B)
+DEN78,Repair Of Denture Prosthesis (B)
+DEN79,Partial Denture Prosthesis -First Tooth
+DEN80,Partial Denture Prosthesis -Every Additional Tooth
+DEN81,Imf Removal Of Appliance
+DEN82,Repair Of Denture Prosthesis (A)
+DEN83,X-Ray Occlusal Per Plate
+DEN84,X-Ray Intra-Oral Per Plate (Dental X-Ray)
+DERM1,Acetic Acid Application Of Viral Warts
+DERM2,Acne Scars
+DERM3,Acne Scars-Excision
+DERM4,Acne Scars-Punch Eleva.
+DERM5,Acne Scars-Subscision
+DERM6,Chemical Cautery Using Tca
+DERM7,Chemical Peel
+DERM8,Chemical Peel 50% Gla Peel
+DERM9,Chemical Peel 60% Gla Peel
+DERM10,Chemical Peel 70% Gla Peel
+DERM11,Chemical Peel For Acne Scars
+DERM12,Chemical Peel For Chloasma
+DERM13,Chemical Peel For Large Areas
+DERM14,Chemical Peel For Melasma
+DERM15,Chemical Peel For Pigmentation & Acne Scars Above 25% Tca
+DERM16,Chronic Leg Ulcers
+DERM17,Comedone Extraction
+DERM18,Cryac
+DERM19,Cryac-Closed Pobe
+DERM20,Cryo0Syrgery Hypertrohic Scars
+DERM21,Cryoslysh-Acne Scars
+DERM22,Cryotherapy
+DERM23,Cryotherapy-Three Freeze
+DERM24,Cryotherapy-Two Freeze
+DERM25,Curettage Of Molluscum Contagiosum
+DERM26,Debridment Of Wound
+DERM27,Drevisol Treatment Of Acne Scars/Seborric
+DERM28,Elecrofulguration
+DERM29,Electao.For Seborrheic Warm
+DERM30,Electrocautery
+DERM31,Electrocoagulation
+DERM32,Excision Skin Biopsy Electrocautery Extensive Lesions
+DERM33,Excision Skin Biopsy Suturing With Undermining Of Edges
+DERM34,Excision Skin Biopsy With Suture
+DERM35,Excision Skin Biopsy Without Suture
+DERM36,For Microscophy Per Test
+DERM37,Keloids & Hypertrophic Scars
+DERM38,Liq.Nitrogen Treatment Of Hypertropic Scars
+DERM39,Local Cortisone Injection
+DERM40,Microdermabrasion Each Sitting Acne
+DERM41,Microdermabrasion For Glow Rejuvenation
+DERM42,Monochromatic Light Per Session
+DERM43,Non Surgical Face Life
+DERM44,Paring Debridement/Patch Testings
+DERM45,Punch Biopsies
+DERM46,Punch Biopsy 2Mm
+DERM47,Punch Biopsy 3Mm
+DERM48,Seborheic Warts Less Than Five
+DERM49,Seborrheic Warts More Than Five
+DERM50,Serborrheic Warts More Than Ten
+DERM51,Shave Excision & Suture
+DERM52,Shave Excision Medium
+DERM53,Shave Excison Of Benign & Malignant Lesions
+DERM54,Skin Biopsy
+DERM55,Tattoo Removal Each
+DERM56,Woodlight Examination
+ENT01,Nasopharyngolaryngoscopy
+ENT02,Laryngeal Telescopy
+ENT03,Cochlear Nerve And Other Test
+ENT04,Sinuscopy
+GAST01,Ogd Scopy
+GAST02,"Colonoscopy With Biopsy , Excision Biopsy"
+GAST03,Endoscopic Biliary Endoprosthesis (Therap.Ercp)
+GAST04,Ileoscopy With Or Without Biopsy
+GAST05,Nj Tube / Peginsertion / Peritoneoscopy With Liver Biopsy
+GAST06,Eus Guided Fna Of Pancreatic Mass
+GAST07,Endoscopic Sphinoterotomy/Argon Plasma/Haempclip/Therap.Ercp
+GAST08,Endoscopic Polypectomy
+GAST09,Endoscopic Balloon Dilatation
+GAST10,Fiberoptic Sigmoidoscopy With Biopsy
+GAST11,Ogd-Eus
+GAST12,Heliprobe Urea Breath Test
+GAST13,Capsule Endoscopy
+GAST14,Diagnostic E.R.C.P.
+GAST15,Video Nasopharyngo Laryngoscope
+GAST16,"Jejunoscopy With Biopsy,Diagnostic Peritoneoscopy"
+GAST17,Flexible Sigmoidoscopy Plus Eus
+GAST18,Eus Guided Fna Of Mediastinal Masses
+GYNAC1,Obsterician Charges ( Normal Labour )
+GYNAC2,M.T.P. 1St Trimester
+GYNAC3,M.T.P. Mid Trimester
+GYNAC4,"Normal Labour-Breech,Twins,Forceps,Vacuum"
+GYNAC5,Hysterosalpingography
+GYNAC6,N.S.T. (Foetus Monitoring Test)
+LITH,Lithotripsy
+MDC1,An L Dopa Challenge
+MDC2,Botulinum Toxin 50U Seperate Vial
+MDC3,Botulinum Toxin Inj.100 Units
+MDC4,Botulinum Toxin Inj.20 Units
+MDC5,Botulinum Toxin Inj.30 Units
+MDC6,Botulinum Toxin Inj.50 Units
+MDC7,Re-Programming - Post Deep Brain Stimulation
+NEURO1,Neuropsychology (Epilepsy Surgery Program)
+NEURO2,Thrombolysis For Stroke
+NEURO3,Neuropscychology Battery Composition
+NEURO4,Neurologist Fees ( Epilepsy Surgery Program)
+NEURO5,Wais
+NEPH01,Dialysis- Haemo Charges - First 2 Times Each
+NEPH02,Dialysis-Haemo- Subseqent (F/Us)
+NEPH03,Heparin Free Dialysis ( New Set )
+NEPH04,Emergency Haemodialysis 1 & 1/2 Time Extra On Haemodialysis
+NEPH07,Plasma Pheresis Planning
+NEPH10,Capd-Pd-Planning
+NEPH11,Peritoneal Dialysis
+NEPH12,Femoral Vein Cannuulation / Subclavian Vein
+NEPH13,C.A.P.D. Charges Of 4 Exchanges Per Day
+NEPH15,Cavhd Or Cvvhd Therapy In Icu
+NEPH16,Haemoperfusion /Cavh/ Cavvh / Procedures + Store Items Extra
+NEPH17,Ultrafiltration
+NEPH18,Service Chag.- For Ztcc
+OPTH02,Computerised Permetry
+OPTH03,Cyst Removal Of Eyelids
+OPTH04,Dressing ( Eye Dept )
+OPTH06,Fundus Flurescein Angiography
+OPTH07,Fundus Pictures / Oct.-Extra Copies
+OPTH08,Intravitreal Inj.
+OPTH09,Laser Photocoagulation (Other Than Rop For One Eye Session
+OPTH10,Laser Photocoagulation For Retainopathy Of Prematurity (Rop) For Complete Treatment For Both Eye
+OPTH11,Oct Procedure - Optical Coherence Tomography
+OPTH12,Oct Procedure -Optical Coherence Tomography-Repeat
+OPTH13,Opthalmic Ultrasound Biometre
+OPTH14,Opthalmic Ultrasound B-Scan
+OPTH15,Optic Disc Analysis
+OPTH16,Pachymeter
+OPTH17,Photodynamic Terapy - Pdt- Package
+OPTH18,Photographic Procedure Charges
+OPTH19,Subtenon'S Inj.
+OPTH20,Suture Removal - Eye Dept.
+OPTH21,Yag Laser Capsulotomy
+OPTH22,Yag Laser Peripheral Iridectomy
+MISC,MISCELLANEOUS
+PM01,Advanced Pain Procedures - Implanation Of Pump Or Stimulators
+PM02,Radiofrequency Lesion Generator Extra Charges - Major Procedure Group Iii
+PM03,Change Of Ipg / Pump
+PM04,Intrathecal Drug
+PM05,Advanced Pain Therapies - Trial (Spinal Cord Stimulator)
+PM06,Minor Nerve Block
+PM07,Major Nerve Block
+PM08,Trigger Point Inj.
+SAT01,Audiogram
+SAT02,Speech Therapy Per Sitting
+SAT03,Impedance Audiometry
+SAT05,"Special Test (Sisi , Td & Ablb )"
+SAT06,Hearing Aid Trial And Fitting
+SAT07,Peadr.Audio.Free Field/Close Field(For Children Upto 10Years
+UD01,Standard Urodynamic (1+3)
+UD02,Uroflowmetry
+UD03,Cystometry
+PSY01,Psychological Assessment
+PSY02,Wechsler Intelligence Scale For Children
+PSY03,The Children Apperception Test
+PSY04,Draw A Man
+PSY05,Ravena Progressive Matrices-Standard
+PSY06,Ravens Progressive Matices -- Coloured
+PSY07,Sacks Sentence Completion Test
+PSY08,Vineland Social Maturity Scale
+PSY09,Seguine Form Board
+PSY10,The Thematic Apperception Test
+PSY11,The Bender Getalt Visuo Motor Test
+PSY12,Wechsler Adult Performance Scale Of Intelligence
+PSY13,The House Tree Person Test
+CD02,Standard Lung Function Tests
+CD03,Sleep Study
+CD04,Flow Volume Curves Before&After Bronchodilator With Nebulzor
+CD05,Bipab Machine For Nasal Ventilation
+CD06,S.A.C.E. Test For Sarcoidosis
+CD07,Ph/Blood Gas And Acid-Base Status(Blood Gas) Radiomter/Abl3
+CD08,6 Minute Walk Test (New Test)
+CD09,Pulmonary Stress Testing (Tread Mill Magna Computer)
+CD10,Exercise Induced Asthma Test
+CD11,Routine Alergen (Per Test) (Emerk Allergen Kit)
+CD12,Heart Rate And Sao2 Basal And After Exercise
+CD14,Bronchial Provocation Test (H.B.P.T.)

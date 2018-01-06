@@ -1,0 +1,236 @@
+XRAY001,Abdomen (Standing Position) 1 Expo
+XRAY002,Ankle Joint A.P. & Lateral 1 Film
+XRAY003,Ascending Urethrogram (1 Inj.) 1 Expos. G2
+XRAY004,Barium Enema Exam.Of Colon With Double Contrast 10 Expos G1
+XRAY005,Barium Meal Exam Of G.I.Tract 10 Expos. G1
+XRAY006,Barium Meal Exam.Of Oesophagus(Barium Swallow) 2 Films G1
+XRAY007,"Barium Meal Exam.Of Osd 7 Expos.Oesophagus,Stomach,Dudo.G1"
+XRAY008,Barium Meal Exam.Of Small Bowel( 8 Exposure )
+XRAY009,Barium Meal Exam.Of Stomach & Duodenum 5 Expos. G1
+XRAY010,"Bone Scanogram - 3 Expos.14"" X 17"""
+XRAY011,Both Heel 1 Film
+XRAY012,Both Knee Joints-3 Expos
+XRAY013,Cephalogram
+XRAY014,Cervical Spine 1 Expo
+XRAY015,Cervical/Dorsal/Lumbar Spine 4 Discs
+XRAY016,Chest P.A.View & Lat.Views 1 Exposure
+XRAY017,Chest P.A.View 1 Exposure
+XRAY018,Clavicle 1 Expo
+XRAY019,Cysto-Urethrogram/Mict.Cystogram (2 Inj.) 4 Expos. G2
+XRAY020,Dacrocystogram ( 04 Exposure 11 X 14 )
+XRAY021,Dorsal Spine 1 Expo
+XRAY022,Dorso-Lumbar Spine 1 Expo
+XRAY023,E.R.C.P. Expos (Old Code I002)
+XRAY024,Elbow A.P. & Lateral 1 Film
+XRAY025,Extra Expos Charges
+XRAY026,Face 1 Expo
+XRAY027,Femur 1 Expo
+XRAY028,Foot A.P. And Oblique 1 Film
+XRAY029,Gastrograffin
+XRAY030,Gastrograffin Sallow
+XRAY031,Hand A.P. And Oblique 1 Film
+XRAY032,Hip Joint 1 Expo
+XRAY033,Hysterosalpingography 2 Expos((Old Code H001)
+XRAY034,I.V.P.Of Children(Up To 12 Years-1 Injn.) 7 Expos.G1
+XRAY035,I.V.Pyelography With Injection Omin Paque - 8 Expos.G1
+XRAY036,Knee Joint 1 Expo
+XRAY037,Leg (Tiria - Fibula ) 1 Expo
+XRAY038,Looppogram / Fistulogram ( 04 Exposure 11 X 14 )
+XRAY039,Lumbar Spine 1 Expo
+XRAY040,Mandible 1 Expo
+XRAY041,Mastoids 1 Expo
+XRAY042,Nephrostogram 2 Expos (Old Code H002)
+XRAY043,Nj Tube Insertion
+XRAY044,O.P.G.
+XRAY045,Orbit 1 Expo
+XRAY046,Paranasal Sinuses 1 Expo
+XRAY047,Pelvis & Hip Joints 1 Expo
+XRAY048,Plain Abdomen (K.U.B.) 1 Exposure
+XRAY049,Ribs 1 Exposure
+XRAY050,Shoulder Joint / Humerus 1 Expo
+XRAY051,Sinogram (1 Inj.) 2 Expos. G2
+XRAY052,Skull P.A.& Lat.Views 1 Expo
+XRAY053,Small Bowel Enema - 12 Exposures G3
+XRAY054,T.M.Joint 1 Expo
+XRAY055,Upper Abdomen 1 Expo
+XRAY056,Wrist A.P. & Lateral 1 Films
+USG001,3D Pelvis
+USG002,3D/4D Obstetric
+USG003,Ascitic / Pleural Tapping
+USG004,Breast Abvs
+USG005,Breast Biopsy
+USG006,Breast Elastography Study
+USG007,Breast Localisation
+USG008,Embryp-Reduction
+USG009,Follicle Study
+USG010,Liver Elastography
+USG011,Pseudoaneurysm Compression
+USG012,T C D
+USG013,Transvaginal Sonography
+USG014,Twin Obstetric
+USG015,U.S.G Kub / Kidney / Transplant Kidney
+USG016,U.S.G Pelvis
+USG017,"U.S.G. Abdomen (Liver,Gall Bladder,Pancreas,Spleen)"
+USG018,Ultrasound Guided Alcohol Inj./Pigtail Insersion Etc.
+USG019,Ultrasound Guided Amniocentesis/Cvs/Cordo Centesis
+USG020,Ultrasound Guided Biopsy - Liver
+USG021,Ultrasound Guided Biopsy-Kidney
+USG022,Ultrasound Guided Interventional Procedure/Biopsy
+USG023,Ultrasound Guided -Percutaneous Nephrostomy (Pcn)
+USG024,"Ultrasound Guided -Thyroid Fnac,Cyst Aspin/Breast Fnac."
+USG025,Ultrasound Guided Transrectal Biopsy
+USG026,Ultrasound Guided Tvs Hydrosonography
+USG027,Usg Abdomen (Hcu-Pkg-A)
+USG028,Venous / Arterial Double Lower / Upper Limbs
+USG029,Venous / Arterial Single Lower / Upper Limb
+CDOP001,Color Doppler Abd Mesentric
+CDOP002,Color Doppler Abd Portal Venous
+CDOP003,Color Doppler Arterial Lower Limb Bilat.
+CDOP004,Color Doppler Arterial Lower Limb Unilat.
+CDOP005,Color Doppler Arterial Upper Limb Bilat.
+CDOP006,Color Doppler Arterial Upper Limb Unilat.
+CDOP007,Color Doppler Bilateral Ll Venous Varicose Veins
+CDOP008,Color Doppler Carotid
+CDOP009,Color Doppler Endovenous Laser Treatment
+CDOP010,Color Doppler Guided Major Procedure
+CDOP011,Color Doppler Guided Minor Procedure
+CDOP012,Color Doppler Musculoskeletal
+CDOP013,Color Doppler Neck Veins
+CDOP014,Color Doppler Obs Follow Up
+CDOP015,Color Doppler Pelvis
+CDOP016,Color Doppler Perforator Marking
+CDOP017,Color Doppler Peripheral Venous & Arterial Lower Limb Bilat.
+CDOP018,Color Doppler Peripheral Venous & Arterial Lower Limb Unilat.
+CDOP019,Color Doppler Peripheral Venous & Arterial Upper Limb Bilat.
+CDOP020,Color Doppler Peripheral Venous & Arterial Upper Limb Unilat.
+CDOP021,Color Doppler Peripheral Venous Lower Limb Bilat. .
+CDOP022,Color Doppler Peripheral Venous Lower Limb Unilat.
+CDOP023,Color Doppler Peripheral Venous Upper Limb Bilat.
+CDOP024,Color Doppler Peripheral Venous Upper Limb Unilat.
+CDOP025,Color Doppler Portable
+CDOP026,Color Doppler Psuedo Aneurysm Compression
+CDOP027,Color Doppler Renal
+CDOP028,Color Doppler Screening
+CDOP029,Color Doppler Scrotum
+CDOP030,Color Doppler Study 3D Pelvis
+CDOP031,Color Doppler Superficial Temporal Artery
+CDOP032,Color Doppler Transcranial
+CDOP033,Color Doppler Transplant Kidney
+CDOP034,Color Doppler Tx Renal
+CDOP035,Color Doppler Unilateral Ll Venous Varicose Veins
+CDOP036,Color Doppler Vein Markings
+CDOP037,"Abdominal Doppler-Hepatic Veins,Portal Vein Ivc ....."
+CDOP038,Av Fistula Doppler
+CDOP039,Obstetric Doppler
+CDOP040,Pelvic Doppler
+CDOP041,Radial Doppler
+CDOP042,"Small Parts Doppler-Pcd,Scrotum,Thyroid,Transplant,Iliac.."
+CDOP043,Transvaginal Doppler
+CT001,Upper Abdomen
+CT002,Chest
+CT003,Head + Coronal
+CT004,Head
+CT005,Head + Thin Section Posterior Fossa
+CT006,Head + Temporal Bone
+CT007,Head + Orbit
+CT008,Ct Angio
+CT009,C.T.Guided Drainage
+CT010,Ct Coronary Angiogram
+CT011,Ct Guided Rf Ablation
+CT012,Neck
+CT013,Pelvis
+CT014,"Abdomen , Chest , Pelvis And Neck"
+CT015,Extremities
+CT016,Cervical/Dorsal/Lumbar Spine 4 Discs
+CT017,Bmd
+CT018,Bone Densitometry
+CT019,Coronary Calcium Score
+CT020,Ltd Pns
+CT021,Mediastinum
+CT022,Ct Guided Vertebroplasty
+CT023,Ct Perfusion
+CT024,Spine - One Region
+CT025,Cervical/Dorsal/Lumber Spine 5-8 Discs.
+CT026,Ct Colonoscopy
+CT027,Ct Bronchoscopy
+CT028,Abdomen Extended Inclusing Pelvis
+CT029,C.T.Myelo & Procedure Charges
+CT030,Ct Angioscopy
+CT031,Doctor'S Second Opinion Prof.Fees
+CT032,3D Ct
+CT033,C.T. Scan For Stereotactic Evacuation Of I Ntracerebrai Haematoma
+MAMO001,Mammography (For Hcu Pts)
+MAMO002,Mammography Guided Biopsy.
+MAMO003,Mamography - Sonography
+MRI001,Head
+MRI002,Spine - One Region
+MRI003,Contrast - Additional Over Above Schedule
+MRI004,"Single Joint - Knee,Ankle,Shoulder Etc."
+MRI005,"Abdomen , Chest , Pelvis And Neck"
+MRI006,Mri Cholangiography
+MRI007,Limited Mri
+MRI008,Mri Spectroscopy
+MRI009,Extended Mri
+MRI010,"Mri Angiography Cerebral,Abdominal,Thoracic"
+MRI011,Mri Venography
+MRI012,Cine Cardiac Mri
+MRI013,Head Extended I.E Head+Pit Fossa Or Head+Post Fossa
+MRI014,Cd/Dvd Charges
+MRI015,Mri Mammography
+MRI016,Mr Posterior Fossa
+MRI017,Mr Cistemogram
+MRI018,Mr Cochlea
+MRI019,Mri Myelography
+MRI020,Mri Ugography
+MRI021,Functional Mri
+MRI022,Mri Periphersal Angio
+MRI023,Cervical/Dorsal/Lumbar Spine 4 Discs
+MRI024,Upper Abdomen
+MRI025,Pkg.B Mri-Scan Deep Brain Stimulation Bilateral Surgery
+MRI026,M.R.I. - For Sterotactic Surg.Proced.For Disorder Brain
+MRI027,Additional Contrast Used
+DSA001,4 Vessel Angiography
+DSA002,Abdominal Aortogram
+DSA003,Aortogram
+DSA004,Aortogram With Peripheral Angio.
+DSA005,Aorto-Renal Studies(Renal Angiography
+DSA006,Arch Aortogram
+DSA007,Bariam Swallow Test On Eqp.(Dsa) Sla.
+DSA008,Bilary Or Renal External Drainage
+DSA009,Bilateral Carotid Angiography Both Sides
+DSA010,Biliary Stenting
+DSA011,Carotid Angiography On One Side
+DSA012,Carotid Stenting Grade Iii
+DSA013,Chemo Embolisation
+DSA014,Chemo-Embolization-Yttrium Theraspheres Therapy
+DSA015,Coeliac Angigram
+DSA016,Drainage Follow Up
+DSA017,Embolisation
+DSA018,Extra Films Used In Dsa
+DSA019,G D S Coil Embolisation Of Aneurysm Grade Ii
+DSA020,G.I.Bleed Embolisation
+DSA021,H.S.G.
+DSA022,H.S.G. With F.T.R.
+DSA023,Interior Mesenteric Angiogram
+DSA024,Internal & External Biliary Drainage
+DSA025,Ivc (Infero-Venocavogram)
+DSA026,Ivc Filter Placement
+DSA027,Nj Tube Insertion
+DSA028,P.T.C.
+DSA029,Pcn (Percutaneous Nephrostomy)
+DSA030,Percutaneous Embolisation
+DSA031,Peripheral Angioplasty
+DSA032,Peripheral Arteriography (Aortogram)
+DSA033,Peripheral Vascular Stenting Grade Iv
+DSA034,Peripheral Venography
+DSA035,Renal Angioplasty
+DSA036,Selective Renal
+DSA037,Spinal Angiogram
+DSA038,Sup. & Inf. Mesenteric Coeliac Angiogram
+DSA039,Superior Mesenteric Angiogram
+DSA040,T I P S Grade Iii
+DSA041,Thrombolysis
+DSA042,Trans Jugular Biopsy
+DSA043,Uterine Fibroid Embolisation 0000
+DSA044,Venogram Bilateral
+DSA045,Vertebral Angiography
